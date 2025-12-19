@@ -20,3 +20,9 @@ For the unit tests I utilised Claude to help with the basic testing structure an
 ## Frontend
 
 I used Github copilot in visual studio code for assisting with small necessities such as syntax issues alongside claude to aid in handling state management. For example "how can I ensure the button is disabled when making an API call"
+
+# Time Log
+
+- 10m Planning Workflow
+- 50m Coding and Debugging (Front End & Back End)
+- 10m Controller Layer Unit Test
