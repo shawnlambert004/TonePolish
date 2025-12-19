@@ -2,7 +2,7 @@
 ## Backend
 1. Clone the Repo `https://github.com/shawnlambert004/TonePolish.git`
 2. Navigate to `backend/` folder
-3. Add your Groq API key to `application.properties`: the creator's key has been provided in the email 
+3. Add your Groq API key to `application.properties.example`: the creator's key has been provided in the email, rename the file to `application.properties`
 4. Build Maven Project
    `mvn clean install # Linux or MacOS`
     `mvnw.cmd clean install # Windows`
