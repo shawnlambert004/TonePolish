@@ -17,5 +17,6 @@ I used chatGPT to generate import necessary libraries and dependencies for the R
 
 For the unit tests I utilised Claude to help with the basic testing structure and appropriate inputs to test functionality
 
-##Frontend
+## Frontend
+
 I used Github copilot in visual studio code for assisting with small necessities such as syntax issues alongside claude to aid in handling state management. For example "how can I ensure the button is disabled when making an API call"
