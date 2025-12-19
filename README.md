@@ -26,3 +26,9 @@ I used Github copilot in visual studio code for assisting with small necessities
 - 10m Planning Workflow
 - 50m Coding and Debugging (Front End & Back End)
 - 10m Controller Layer Unit Test
+
+# Demo
+[19_12_2025, 11_39_39 - Screen - Untitled video.webm](https://github.com/user-attachments/assets/dec859bb-137e-4c00-95f5-f5349e547994)
+
+
+
